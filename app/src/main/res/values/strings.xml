@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sneackers</string>
+    <string name="intro_title">Откройте новый мир знаний <font color="#2A63F6"> Для студентов</font></string>
+    <string name="intro_text">Получите помощь с учебными заданиями и проектами\nподход к каждому студенту\nи качественная помощь от опытных специалистов</string>
+    <string name="intro_signin">У вас уже есть учетная запись? <font color="#2A63F6">Авторизоваться</font></string>
+</resources>
